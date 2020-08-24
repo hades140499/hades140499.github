@@ -1,0 +1,11 @@
+/* CSS Document */
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+	.anh {width: 20em; height: 20em}
+	.anh2 {width: 20em; height: 20em}
+	.anh3 {width: 20em; height: 20em}
+}
+@media screen and (max-width: 46.1875em) {
+	.anh {width: 10em; height: 10em}
+	.anh2 {width: 10em; height: 10em}
+	.anh3 {width: 10em; height: 10em}
+}
